@@ -50,3 +50,8 @@ var Foo = classdef(null, Barable, Bazable, {
 });
 
 ```
+
+# License
+Copyright (c) 2012 Ned Burns
+Licensed under the MIT license.
+http://github.com/7sempra/classdef/blob/master/LICENSE-MIT
