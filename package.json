@@ -1,10 +1,25 @@
 {
   "name": "classdef",
-  "description": "Simple sugar for class definitions in JS",
+  "description": "Bare-bones syntactic sugar for class definitions in JS",
   "version": "1.0.0",
-  "main": "lib/classdef",
   "author": {
     "name" : "Ned Burns",
-    "email" : "pixel@google.com"
-  }
+    "email" : "net7runner@gmail.com"
+  },
+  "homepage": "https://github.com/7sempra/classdef",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/7sempra/classdef.git"
+  },
+  "bugs": {
+    "url" : "https://github.com/7sempra/classdef/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/7sempra/classdef/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "lib/classdef",
+  "keywords": ["class", "definition", "sugar"]
 }
