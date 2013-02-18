@@ -1,7 +1,7 @@
 {
   "name": "classdef",
   "description": "Bare-bones syntactic sugar for class definitions in JS",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name" : "Ned Burns",
     "email" : "net7runner@gmail.com"
