@@ -1,0 +1,10 @@
+{
+  "name": "classdef",
+  "description": "Simple sugar for class definitions in JS",
+  "version": "1.0.0",
+  "main": "lib/classdef",
+  "author": {
+    "name" : "Ned Burns",
+    "email" : "pixel@google.com"
+  }
+}
