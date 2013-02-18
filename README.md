@@ -48,7 +48,6 @@ var Orange = classdef(Fruit, Edible, Squeezable, {
 var Foo = classdef(null, Barable, Bazable, {
   constructor: function() {}
 });
-
 ```
 
 # License
